@@ -4,5 +4,3 @@
 - My latest hobby is building custom [keyboards](https://bastardkb.com/) ⌨️ and [firmware](https://github.com/icecreammatt/qmk_firmware/) with alternative [layouts](https://colemakmods.github.io/mod-dh/).
 - 📚 [Homelab wiki](https://wiki.c4er.com/)
 - [nixfiles](https://github.com/icecreammatt/nixfiles)
-
-<img src="https://github.com/icecreammatt/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only" /><img src="https://github.com/icecreammatt/github-stats/blob/main/generated/overview.svg#gh-dark-mode-only" />
